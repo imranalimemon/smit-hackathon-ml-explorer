@@ -5,7 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> **Built at SMIT Hackathon** 🏆  
+> **Built at SMIT Hackathon**   
 > An interactive ML web app that lets you upload **any CSV dataset**, pick a machine learning model, tune hyperparameters, and get instant results — **no coding required**.
 
 ---
